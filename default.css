@@ -1,5 +1,6 @@
 body {
     background-color:antiquewhite;
+    font-family:'Times New Roman', Times, serif
 }
 
 nav {
@@ -27,7 +28,7 @@ li a {
     text-decoration: none;
 }
 
-.loho {
+.logo {
     display: block;
     width: 100%;
     margin: 20px;
